@@ -1,0 +1,13 @@
+﻿# no game binaries, no build outputs
+*.EXE
+*.exe
+*.dll
+*.zip
+*.avi
+*.000
+*.001
+*.002
+*.003
+*.004
+__pycache__/
+*.pyc
